@@ -71,14 +71,5 @@ Near real-time product, inventory, and order sync between vendor and client stor
 
 <hr>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=1MuneebUrRehman&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1MuneebUrRehman&layout=compact&hide_border=true" alt="Top languages">
-</p>
-
-<hr>
-
 <h1 align="center">Thank You! 🤵</h1>
 <p align="center"><i>Let's build something worth shipping. 🚀</i></p>
